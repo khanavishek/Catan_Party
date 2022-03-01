@@ -1,4 +1,3 @@
-Catan Streak
 1. Noah (2/13/2021 —snowpocalypse day 1)
 2. Chris (2/15/2021 - Monday off)
 3. Noah (2/17/2021)
@@ -16,7 +15,7 @@ Catan Streak
 15. Chris (3/2/2021)
 16. Milla (3/3/2021) - Hannah and Avishek (10- H 9 - A 7)
 17. Chris (3/4/2021) closest I’ve ever been 
-18. AVISHEK (3/4/2021 11:21 PM) YEAH BITCHEZ
+18. Avishek (3/4/2021 11:21 PM) YEAH BITCHEZ
 19. Chris (3/6/2021) - “does anyone have wheat”
 20. Chris (3/7/2021)- 1:30 AM
 21. Samira (3/8/2021) - home field advantage
@@ -64,7 +63,7 @@ Catan Streak
 63. Milla (7/27/2021) - milla & kevin, milla smacked us (10-3-3)
 64. Tamasha (8/8/2021)
 65. Avishek (8/8/2021) 
-66. Phillipp Popp (8/16/2021) 
+66. Philipp Popp (8/16/2021) 
 67. Karen (8/22/2021) - first time with investment banker
 68. Avishek (9/1/2021) - Janice’s first board
 69. Avishek & Jeremy (9/18/202) - Jeremy and I won with two victory points, no wood 
@@ -80,7 +79,7 @@ Catan Streak
 79. Janice (11/13/2021) - Janice bday party 
 80. Rahul (11/23/2021) - hardest game I’ve played
 81. JBCapone (12/7/2021) - random people with Dani on colonist.io
-82. My Good Sir, PHILIPP POPP(1/1/2022) - Happy NYE, I was blue for the first time in a while 
+82. Philipp Popp(1/1/2022) - Happy NYE, I was blue for the first time in a while 
 83. Avishek (1/2/2022) - Dani’s first board, played with Haytham 
 84. Avishek 1/9/2022) - Hannah and Jacob 
 85. Avishek (1/11/2022) - first league Game
@@ -90,5 +89,5 @@ Catan Streak
 89. Chris (1/21/2022) - saw Noah again
 90. Avishek (2/10/2022) - Duke won tonight, played as Blue
 91. Noah (2/19/2022) - Duke FSU game Noah won 10, Avi: 4, Chris: 4
-92. PHILIPP POPP (2/19/2022) - optimism Catan, I had 9, Mackenzie 6, PHILIPP stole longest road, I woulda won on my turn had won 
+92. Philipp Popp (2/19/2022) - optimism Catan, I had 9, Mackenzie 6, PHILIPP stole longest road, I woulda won on my turn had won 
 93. Andrew Oliver (2/23/2022) - DUNKED, Duke UVA game, 
