@@ -42,7 +42,7 @@ if __name__ == "__main__":
         print("Game notes are: (Game #, winner, date, notes) \n")
         playerstats = (printPlayerStats(allPlayerStats,k))
         for item in playerstats:
-            print (item)
+            print (item, "\n")
         print("\n")
 
 
