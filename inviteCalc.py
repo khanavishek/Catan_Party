@@ -35,7 +35,7 @@ if __name__ == "__main__":
     winnerListCalculated = inviteCalc("Winners_Log.md")
     allPlayerStats = findAllPlayerStats("Winners_Log.md", winnerListCalculated)
     for k in sorted(allPlayerStats.keys()):
-        print("Player: ", k)
+        print("## " + k)
         print("Game notes are: (Game #, winner, date, notes)")
         playerstats = (printPlayerStats(allPlayerStats,k))
         for item in playerstats:
