@@ -21,6 +21,9 @@ def findAllPlayerStats(filename, winnerList):
         item = line.split("-")
         name = item[0].split(" ")[1].strip()
         if name in winner_map.keys():
+            line = line.strip().split(".")
+            line[0] = "("+ line[0] + ")"
+            line = " ".join(line)
             winner_map[name].append(line.strip())
     return winner_map
 
@@ -36,7 +39,7 @@ if __name__ == "__main__":
     allPlayerStats = findAllPlayerStats("Winners_Log.md", winnerListCalculated)
     for k in sorted(allPlayerStats.keys()):
         print("## " + k)
-        print("Game notes are: (Game #, winner, date, notes)")
+        print("Game notes are: (Game #, winner, date, notes) \n")
         playerstats = (printPlayerStats(allPlayerStats,k))
         for item in playerstats:
             print (item)
