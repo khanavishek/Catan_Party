@@ -41,7 +41,7 @@
 Andrew Oliver, Charlie Livaudais, Noah Pritt, Chris Maynard
 
 # Group 2
-Hannah Chow, Avishek Khan + Daniela Acuna, Patrick Bowers, Milla Shin
+Janice Liu, Avishek Khan, Patrick Bowers, Milla Shin
 
 # Group 3
 Philipp Popp, Saige Sunier, Tanya Riordan, Stuart Baker

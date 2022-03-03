@@ -8,8 +8,38 @@ def inviteCalc(filename):
     toRemove = toRemove.split(",")
     for item in toRemove: 
         inviteSet.remove(item.strip())
-    for i in range(len(inviteSet)):
-        print(str(1) +  ". " + sorted(inviteSet)[i])
+    # for i in range(len(inviteSet)):
+        # print(str(1) +  ". " + sorted(inviteSet)[i])
+    return sorted(inviteSet)
+
+def findAllPlayerStats(filename, winnerList):
+    winner_map = {}
+    for item in winnerList:
+        winner_map[item] = []
+    Catan_Notes = open(filename, "r") 
+    for line in Catan_Notes:
+        item = line.split("-")
+        name = item[0].split(" ")[1].strip()
+        if name in winner_map.keys():
+            winner_map[name].append(line.strip())
+    return winner_map
+
+def printPlayerStats (winner_map,name):
+    return(winner_map[name])
+    
+
+
+
+
 if __name__ == "__main__":
-    inviteCalc("Winners_Log.md")
+    winnerListCalculated = inviteCalc("Winners_Log.md")
+    allPlayerStats = findAllPlayerStats("Winners_Log.md", winnerListCalculated)
+    for k in sorted(allPlayerStats.keys()):
+        print("Player: ", k)
+        print("Game notes are: (Game #, winner, date, notes)")
+        playerstats = (printPlayerStats(allPlayerStats,k))
+        for item in playerstats:
+            print (item)
+        print("\n")
+
 
