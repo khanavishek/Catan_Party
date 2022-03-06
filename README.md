@@ -1,6 +1,6 @@
 # Catan_Party
 
-## Winners: 
+## Winners Set: 
 
 1. Andrew Oliver
 1. Avishek Khan
@@ -41,13 +41,13 @@
 Andrew Oliver, Charlie Livaudais, Noah Pritt, Chris Maynard
 
 # Group 2
-Janice Liu, Avishek Khan, Patrick Bowers, Milla Shin
+ Mackenzie Zepeda, Avishek Khan, Patrick Bowers, Saige Sunier
 
 # Group 3
-Philipp Popp, Saige Sunier, Tanya Riordan, Stuart Baker
+Philipp Popp, Milla Shin, Tanya Riordan, Stuart Baker
 
 # Group 4
-Beth Schulman, Craig Fiedorek, Mackenzie Zepeda, Jacob Leiken
+Beth Schulman, Craig Fiedorek, Janice Liu, Jacob Leiken
 
 # Sub-ins
 1. Hannah Chow
@@ -75,7 +75,7 @@ Outline.
 
 # Player Stats
 
-## Andrew
+## Andrew Oliver
 Game notes are: (Game #, winner, date, notes) 
 
 (86)  Andrew Oliver (1/11/2022) - Schooled by the boyz 
@@ -84,7 +84,7 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Avishek
+## Avishek Khan
 Game notes are: (Game #, winner, date, notes) 
 
 (18)  Avishek (3/4/2021 11:21 PM) YEAH BITCHEZ 
@@ -127,7 +127,7 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Chris
+## Chris Maynard
 Game notes are: (Game #, winner, date, notes) 
 
 (2)  Chris (2/15/2021 - Monday off) 
@@ -186,42 +186,42 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Craig
+## Craig Fiedorek
 Game notes are: (Game #, winner, date, notes) 
 
 (71)  Craig (10/1/202) - Mox’s Cafe 
 
 
 
-## JP
+## Justin Perry
 Game notes are: (Game #, winner, date, notes) 
 
 (62)  JP & Ashleigh - ATX 
 
 
 
-## Janice
+## Janice Liu
 Game notes are: (Game #, winner, date, notes) 
 
 (79)  Janice (11/13/2021) - Janice bday party 
 
 
 
-## Kishan
+## Kishan Surti
 Game notes are: (Game #, winner, date, notes) 
 
 (59)  Kishan (6/15/2021) - Cafoutis 
 
 
 
-## Mackenzie
+## Mackenzie Zepeda
 Game notes are: (Game #, winner, date, notes) 
 
 (77)  Mackenzie (11/7/2021/) - first time at my apt playing inside 
 
 
 
-## Milla
+## Milla Shin
 Game notes are: (Game #, winner, date, notes) 
 
 (16)  Milla (3/3/2021) - Hannah and Avishek (10- H 9 - A 7) 
@@ -234,7 +234,7 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Noah
+## Noah Pritt
 Game notes are: (Game #, winner, date, notes) 
 
 (1)  Noah (2/13/2021 —snowpocalypse day 1) 
@@ -261,14 +261,14 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Paris
+## Paris Morgan
 Game notes are: (Game #, winner, date, notes) 
 
 (87)  Paris Morgan (1/15/2022) - Heaven on Earth 
 
 
 
-## Philipp
+## Philipp Popp
 Game notes are: (Game #, winner, date, notes) 
 
 (66)  Philipp Popp (8/16/2021) 
@@ -279,7 +279,7 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Rahul
+## Rahul Krishnan
 Game notes are: (Game #, winner, date, notes) 
 
 (70)  Rahul (9/29/2021) - expansion pack 
@@ -288,14 +288,14 @@ Game notes are: (Game #, winner, date, notes)
 
 
 
-## Tanya
+## Tanya Riordan
 Game notes are: (Game #, winner, date, notes) 
 
 (72)  Tanya (10/13/2021) - Smack Cam feat  ASIJ (T-10, M-7, S-7, A-6) 
 
 
 
-## Yousuf
+## Yousuf Rehman
 Game notes are: (Game #, winner, date, notes) 
 
 (56)  Yousuf (5/25/2021) - Yousuf’s house 

@@ -91,3 +91,5 @@
 91. Noah (2/19/2022) - Duke FSU game Noah won 10, Avi: 4, Chris: 4
 92. Philipp Popp (2/19/2022) - optimism Catan, I had 9, Mackenzie 6, PHILIPP stole longest road, I woulda won on my turn had won 
 93. Andrew Oliver (2/23/2022) - DUNKED, Duke UVA game, 
+94. Avishek (3/1/2022) - Mardi Gras vs Noah and Chris, won with star method and longest road 
+95. Chris (3/5/2022)- Duke lost the UNC game but Chris saved us 
