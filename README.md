@@ -166,7 +166,7 @@ Game notes are: (Game #, winner, date, notes)
 
 (33)  Chris (3/15/2021) 
 
-(37)  Chris (3/17/2021) - whining at beginning 
+(37)  Chris (3/17/2021) -  Didn't think he'd win at the beginning
 
 (39)  Chris (3/20/2021)- trev & Kameron played 
 

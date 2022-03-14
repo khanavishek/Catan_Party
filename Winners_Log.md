@@ -92,4 +92,6 @@
 92. Philipp Popp (2/19/2022) - optimism Catan, I had 9, Mackenzie 6, PHILIPP stole longest road, I woulda won on my turn had won 
 93. Andrew Oliver (2/23/2022) - DUNKED, Duke UVA game, 
 94. Avishek (3/1/2022) - Mardi Gras vs Noah and Chris, won with star method and longest road 
-95. Chris (3/5/2022)- Duke lost the UNC game but Chris saved us 
+95. Chris (3/5/2022)- Duke lost the UNC game but Chris saved us
+96. Avishek (3/10/2022) - Ethan Holland and Ashton came over. I won with largest army, Ethan had 9 points, Ashton had 7 with longest road
+97. Mackenzie (3/11/2022) - Mackenzie won with longest road, Philipp had 9 points
