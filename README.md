@@ -16,7 +16,7 @@ Andrew Oliver, Charlie Livaudais, Noah Pritt, Chris Maynard
 Philipp Popp, Milla Shin, Tanya Riordan, Stuart Baker
 
 ### Group 4
-Beth Schulman, Craig Fiedorek, Janice Liu, Jacob Leiken/Hannah Chow
+Beth Shulman, Craig Fiedorek, Janice Liu, Jacob Leiken/Hannah Chow
 
 
 ## Outline
@@ -144,6 +144,10 @@ Game notes are: (Game #, winner, date, notes)
 
 (90)  Avishek (2/10/2022) - Duke won tonight, played as Blue 
 
+(94)  Avishek (3/1/2022) - Mardi Gras vs Noah and Chris, won with star method and longest road 
+
+(96)  Avishek (3/10/2022) - Ethan Holland and Ashton came over  I won with largest army, Ethan had 9 points, Ashton had 7 with longest road 
+
 
 
 ## Chris Maynard
@@ -185,7 +189,7 @@ Game notes are: (Game #, winner, date, notes)
 
 (33)  Chris (3/15/2021) 
 
-(37)  Chris (3/17/2021) -  Didn't think he'd win at the beginning
+(37)  Chris (3/17/2021) - whining at beginning 
 
 (39)  Chris (3/20/2021)- trev & Kameron played 
 
@@ -202,6 +206,8 @@ Game notes are: (Game #, winner, date, notes)
 (73)  Chris 
 
 (89)  Chris (1/21/2022) - saw Noah again 
+
+(95)  Chris (3/5/2022)- Duke lost the UNC game but Chris saved us 
 
 
 
@@ -238,7 +244,7 @@ Game notes are: (Game #, winner, date, notes)
 
 (77)  Mackenzie (11/7/2021/) - first time at my apt playing inside 
 
-
+(97)  Mackenzie (3/11/2022) - Mackenzie won with longest road, Philipp had 9 points 
 
 ## Milla Shin
 Game notes are: (Game #, winner, date, notes) 
